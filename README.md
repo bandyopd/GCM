@@ -6,7 +6,7 @@ Written by Seohyun Kim and edited by Dipankar Bandyopadhyay (Last edited: 04/25/
 
 The code provided implements model-fitting under both the MAR & MNAR scenarios using simulated data. Real data is not provided due to proptietary reasons.
 
-Description: 
+Description (of files and folders available in the zipped folder FelsStudyCode.zip: 
 
 1. Folder "Data": includes simulated datasets, under both MAR and MNAR scenarios
 2. Folder "JAGS": includes JAGS scripts.
