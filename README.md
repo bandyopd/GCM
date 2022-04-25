@@ -4,10 +4,9 @@ R/JAGS implementation of the cross-domain latent growth curve modeling from "Ass
 Written by Seohyun Kim and edited by Dipankar Bandyopadhyay (04/25/2022)
 
 
-### The code provided implements model-fitting under both the MAR & MNAR scenarios
-### using simulated data. Real data is not provided due to proptietary reasons.
+The code provided implements model-fitting under both the MAR & MNAR scenarios using simulated data. Real data is not provided due to proptietary reasons.
 
-### Below find description of the folder contents, and R code. 
+Description: 
 
 1. Folder "Data": includes simulated datasets, under both MAR and MNAR scenarios
 2. Folder "JAGS": includes JAGS scripts.
