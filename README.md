@@ -6,5 +6,5 @@ Written by Seohyun Kim and edited by Dipankar Bandyopadhyay (Last edited: 04/28/
 
 The code provided implements model-fitting under both the MAR & MNAR scenarios using simulated data. Real data is not provided due to proptietary reasons.
 
-Description of files available in the zipped folder "SimulationLGCM.zip" appear in FileDescription.txt
+Description of files available in the zipped folder "SimulationLGCM.7z" appear in FileDescription.txt
 
